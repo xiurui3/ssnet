@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="xiurui@172.29.2.190:22">
+    <serverData>
+      <paths name="xiurui@172.27.127.27:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/icislab/volume1/gxr/RCPS" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="xiurui@172.29.2.190:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/icislab/volume1/gxr/RCPS" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="xiurui@222.206.56.145:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
